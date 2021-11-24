@@ -71,11 +71,24 @@ An unordered list:
     * sub-item 2
 
 ..
-    .. subitems in a list need to be on a new line, and indented to the same level
+    .. Subitems in a list need to be indented to the same level
 
-An ordered list:
+An ordered list
 
 1. item 1
 #. item 2
     a. sub-item 1
     #. sub-item 2
+
+..
+    .. Lists need to start on a new line, and seems like it will always show the space/blank line... oh well.
+
+A table:
+
++---------------+----------------+
+|Header 1       |Header 2        |
++===============+================+
+|Cell 1         |Cell 2          |
++---------------+----------------+
+|Cell 3         |Cell 4          |
++---------------+----------------+

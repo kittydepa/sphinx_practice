@@ -82,3 +82,13 @@ An ordered list
 
 ..
     .. Lists need to start on a new line, and seems like it will always show the space/blank line... oh well.
+
+A table:
+
++---------------+----------------+
+|Header 1       |Header 2        |
++===============+================+
+|Cell 1         |Cell 2          |
++---------------+----------------+
+|Cell 3         |Cell 4          |
++---------------+----------------+
