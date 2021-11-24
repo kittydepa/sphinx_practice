@@ -1,5 +1,13 @@
 :orphan:
 
+.. |ss| raw:: html
+
+    <strike>
+
+.. |se| raw:: html
+
+    </strike>
+
 A first level header
 ====================
 
@@ -31,5 +39,8 @@ A sixth level header
 *italic text*
 
 ``Monospaced text (e.g., code)``
+
+
+|ss| striked text\ |se|\
 
 striked text
