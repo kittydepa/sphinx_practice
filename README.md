@@ -12,5 +12,5 @@ Some helpful .rst resources:
 - [Docutils - rst syntax details](https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html)
 ------ 
 **Remember:**
-- To build with Sphinx on Windows, use `python -m sphinx . build` is the same directory that the .rst file is located.<br>
+- To build with Sphinx on Windows, use `python -m sphinx . build` in the same directory where the .rst file is located.<br>
 - This can only be done after initial Python and [Sphinx setup](https://www.sphinx-doc.org/en/master/) has been completed.</p>
