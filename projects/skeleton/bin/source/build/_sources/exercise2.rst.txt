@@ -55,3 +55,12 @@ An equation block (below)
 A `hyperlink`_ (to Sphinx directives)
 
 .. _hyperlink: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html
+
+A horizontal rule (below)
+
+-----
+
+..
+    .. A horizontal rule (aka. a transition marker) is made with at least 4 or more repeated punctuation characters. Not to be placed at beginning or end.
+
+*end*
