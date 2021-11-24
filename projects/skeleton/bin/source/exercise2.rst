@@ -18,9 +18,12 @@ A fifth level header
 A sixth level header
 """"""""""""""""""""
 
-    A block quote
++------------------------------+
+| A block quote                |
++------------------------------+
 
-Here comes a code block::
+.. code-block:: none
+
     A plain code block.
 
 **bold text**
