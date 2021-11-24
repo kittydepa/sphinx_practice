@@ -1,0 +1,18 @@
+Some Feature A
+==============
+
+Subsection
+----------
+
+Exciting documentation here.
+Let's make a list (empty surrounding lines required):
+
+- item 1
+
+  - nested item 1
+  - nested item 2
+
+- item 2
+- item 3
+
+.. https://stackoverflow.com/questions/15249340/warning-document-isnt-included-in-any-toctree-for-included-file
