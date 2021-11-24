@@ -63,4 +63,22 @@ A horizontal rule (below)
 ..
     .. A horizontal rule (aka. a transition marker) is made with at least 4 or more repeated punctuation characters. Not to be placed at beginning or end.
 
-*end*
+An unordered list:
+
+* item 1
+* item 2
+    * sub-item 1
+    * sub-item 2
+
+..
+    .. Subitems in a list need to be indented to the same level
+
+An ordered list
+
+1. item 1
+#. item 2
+    a. sub-item 1
+    #. sub-item 2
+
+..
+    .. Lists need to start on a new line, and seems like it will always show the space/blank line... oh well.
