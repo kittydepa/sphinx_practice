@@ -42,3 +42,16 @@ A sixth level header
 
 |ss| striked text\ |se|\
 
+superscript\ :sup:`s2`
+
+An inline question: :math:`E = mc^2`
+
+An equation block (below)
+
++------------------------------+
+| :math:`E = mc^2`             |
++------------------------------+
+
+A `hyperlink`_ (to Sphinx directives)
+
+.. _hyperlink: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html
